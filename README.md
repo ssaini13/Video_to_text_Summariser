@@ -2,4 +2,4 @@
 
 Youtube video to text summarised by using wav2vec2 pre-trained model from the Hugging Face.
 
-Audio Chunking has been used to process large files.
+Chunking has been used to process large files, handles out of memory error.
